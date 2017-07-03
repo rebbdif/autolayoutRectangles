@@ -1,0 +1,10 @@
+{
+  "xcodeVersion" : "Xcode 8.2.1\nBuild version 8C1002",
+  "commitish" : "v1.0.2",
+  "iOS" : [
+    {
+      "hash" : "d91764347fe2439da823c65bc0124cab7e8e6936ff1633c93e34064f4eff0604",
+      "name" : "Masonry"
+    }
+  ]
+}
