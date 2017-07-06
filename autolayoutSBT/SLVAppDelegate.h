@@ -1,5 +1,5 @@
 //
-//  Rectangle.h
+//  AppDelegate.h
 //  autolayoutSBT
 //
 //  Created by 1 on 25.04.17.
@@ -8,6 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
-@interface MyRectangle : UIView
+@interface SLVAppDelegate : UIResponder <UIApplicationDelegate>
+
+@property (strong, nonatomic) UIWindow *window;
+
 
 @end
+

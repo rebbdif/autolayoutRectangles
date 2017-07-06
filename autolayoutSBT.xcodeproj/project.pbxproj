@@ -8,30 +8,30 @@
 
 /* Begin PBXBuildFile section */
 		63441BC01EAF5A990020C620 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 63441BBF1EAF5A990020C620 /* main.m */; };
-		63441BC31EAF5A990020C620 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 63441BC21EAF5A990020C620 /* AppDelegate.m */; };
+		63441BC31EAF5A990020C620 /* SLVAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 63441BC21EAF5A990020C620 /* SLVAppDelegate.m */; };
 		63441BC61EAF5A990020C620 /* TaskOneViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 63441BC51EAF5A990020C620 /* TaskOneViewController.m */; };
 		63441BCB1EAF5A990020C620 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 63441BCA1EAF5A990020C620 /* Assets.xcassets */; };
 		63441BCE1EAF5A990020C620 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 63441BCC1EAF5A990020C620 /* LaunchScreen.storyboard */; };
 		63441BD71EAF73FA0020C620 /* Masonry.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 63441BD61EAF73FA0020C620 /* Masonry.framework */; };
-		63441BDB1EAF78BD0020C620 /* MyRectangle.m in Sources */ = {isa = PBXBuildFile; fileRef = 63441BDA1EAF78BD0020C620 /* MyRectangle.m */; };
-		63441BDE1EB00EBB0020C620 /* TaskTwoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 63441BDD1EB00EBB0020C620 /* TaskTwoViewController.m */; };
+		63441BDB1EAF78BD0020C620 /* SLVRectangle.m in Sources */ = {isa = PBXBuildFile; fileRef = 63441BDA1EAF78BD0020C620 /* SLVRectangle.m */; };
+		63441BDE1EB00EBB0020C620 /* SLVTaskTwoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 63441BDD1EB00EBB0020C620 /* SLVTaskTwoViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		63441BBB1EAF5A990020C620 /* autolayoutSBT.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = autolayoutSBT.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		63441BBF1EAF5A990020C620 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		63441BC11EAF5A990020C620 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		63441BC21EAF5A990020C620 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		63441BC41EAF5A990020C620 /* TaskOneViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TaskOneViewController.h; sourceTree = "<group>"; };
+		63441BC11EAF5A990020C620 /* SLVAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SLVAppDelegate.h; sourceTree = "<group>"; };
+		63441BC21EAF5A990020C620 /* SLVAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SLVAppDelegate.m; sourceTree = "<group>"; };
+		63441BC41EAF5A990020C620 /* SLVTaskOneViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SLVTaskOneViewController.h; sourceTree = "<group>"; };
 		63441BC51EAF5A990020C620 /* TaskOneViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TaskOneViewController.m; sourceTree = "<group>"; };
 		63441BCA1EAF5A990020C620 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		63441BCD1EAF5A990020C620 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		63441BCF1EAF5A9A0020C620 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		63441BD61EAF73FA0020C620 /* Masonry.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Masonry.framework; path = Carthage/Build/iOS/Masonry.framework; sourceTree = "<group>"; };
-		63441BD91EAF78BD0020C620 /* MyRectangle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyRectangle.h; sourceTree = "<group>"; };
-		63441BDA1EAF78BD0020C620 /* MyRectangle.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyRectangle.m; sourceTree = "<group>"; };
-		63441BDC1EB00EBB0020C620 /* TaskTwoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TaskTwoViewController.h; sourceTree = "<group>"; };
-		63441BDD1EB00EBB0020C620 /* TaskTwoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TaskTwoViewController.m; sourceTree = "<group>"; };
+		63441BD91EAF78BD0020C620 /* SLVRectangle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SLVRectangle.h; sourceTree = "<group>"; };
+		63441BDA1EAF78BD0020C620 /* SLVRectangle.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SLVRectangle.m; sourceTree = "<group>"; };
+		63441BDC1EB00EBB0020C620 /* SLVTaskTwoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SLVTaskTwoViewController.h; sourceTree = "<group>"; };
+		63441BDD1EB00EBB0020C620 /* SLVTaskTwoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SLVTaskTwoViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,14 +66,14 @@
 		63441BBD1EAF5A990020C620 /* autolayoutSBT */ = {
 			isa = PBXGroup;
 			children = (
-				63441BC11EAF5A990020C620 /* AppDelegate.h */,
-				63441BC21EAF5A990020C620 /* AppDelegate.m */,
-				63441BC41EAF5A990020C620 /* TaskOneViewController.h */,
+				63441BC11EAF5A990020C620 /* SLVAppDelegate.h */,
+				63441BC21EAF5A990020C620 /* SLVAppDelegate.m */,
+				63441BC41EAF5A990020C620 /* SLVTaskOneViewController.h */,
 				63441BC51EAF5A990020C620 /* TaskOneViewController.m */,
-				63441BDC1EB00EBB0020C620 /* TaskTwoViewController.h */,
-				63441BDD1EB00EBB0020C620 /* TaskTwoViewController.m */,
-				63441BD91EAF78BD0020C620 /* MyRectangle.h */,
-				63441BDA1EAF78BD0020C620 /* MyRectangle.m */,
+				63441BDC1EB00EBB0020C620 /* SLVTaskTwoViewController.h */,
+				63441BDD1EB00EBB0020C620 /* SLVTaskTwoViewController.m */,
+				63441BD91EAF78BD0020C620 /* SLVRectangle.h */,
+				63441BDA1EAF78BD0020C620 /* SLVRectangle.m */,
 				63441BCA1EAF5A990020C620 /* Assets.xcassets */,
 				63441BCC1EAF5A990020C620 /* LaunchScreen.storyboard */,
 				63441BCF1EAF5A9A0020C620 /* Info.plist */,
@@ -189,10 +189,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				63441BC61EAF5A990020C620 /* TaskOneViewController.m in Sources */,
-				63441BC31EAF5A990020C620 /* AppDelegate.m in Sources */,
+				63441BC31EAF5A990020C620 /* SLVAppDelegate.m in Sources */,
 				63441BC01EAF5A990020C620 /* main.m in Sources */,
-				63441BDB1EAF78BD0020C620 /* MyRectangle.m in Sources */,
-				63441BDE1EB00EBB0020C620 /* TaskTwoViewController.m in Sources */,
+				63441BDB1EAF78BD0020C620 /* SLVRectangle.m in Sources */,
+				63441BDE1EB00EBB0020C620 /* SLVTaskTwoViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -351,6 +351,7 @@
 				63441BD41EAF5A9A0020C620 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

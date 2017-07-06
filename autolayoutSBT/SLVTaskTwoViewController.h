@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface TaskTwoViewController : UIViewController
+@interface SLVTaskTwoViewController : UIViewController
 
 @end

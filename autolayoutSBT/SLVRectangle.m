@@ -1,15 +1,13 @@
 //
-//  ViewController.h
+//  Rectangle.m
 //  autolayoutSBT
 //
 //  Created by 1 on 25.04.17.
 //  Copyright © 2017 serebryanyy. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "SLVRectangle.h"
 
-@interface TaskOneViewController : UIViewController
-
+@implementation SLVRectangle
 
 @end
-
